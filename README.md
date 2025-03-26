@@ -58,6 +58,16 @@ The system is designed to integrate seamlessly with financial service workflows,
 
 ---
 
+## Architecture
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/8c156a2d-8949-4620-a82e-7d4e534cebf7" />
+
+---
+
+## Sequence Diagram
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/e5fe8461-6432-4cd6-b9d9-f55b5c5b9d4c" />
+
+---
+
 ## 🔧 Installation & Setup
 ### Prerequisites:
 - Python 3.8+
@@ -134,6 +144,9 @@ For production deployment:
 - **Option 2:** Integrate with an existing service pipeline.
 
 ---
+
+## Demo
+https://github.com/sbpkoundinya/gaied-gen-ai-seekers/blob/main/artifacts/demo/DemoForEmailClassifier.pptx
 
 ## 🔮 Future Enhancements
 🚀 **API Integration:** Expose an API endpoint for real-time email classification.  
